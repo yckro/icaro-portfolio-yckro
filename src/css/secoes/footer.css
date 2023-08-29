@@ -1,0 +1,20 @@
+.footer {
+    margin-top: 7rem;
+    text-align: center;
+    background-color: var(--cor-2);
+}
+
+.footer .container {
+    padding: 5rem 0;
+}
+
+.footer .container .redes-sociais i{
+    font-size: 4rem;
+}
+
+.footer h2 {
+    font-family: var(--fonte-secundaria);
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}

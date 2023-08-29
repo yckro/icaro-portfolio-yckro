@@ -1,0 +1,37 @@
+.sobre-mim{
+    background-color: var(--cor-1);
+}
+
+.informacoes-sobre-mim {    
+    padding: 0 25px;   
+    align-self: center; 
+}
+
+.sobre-mim .informacoes-sobre-mim .botoes {
+    margin-top: 50px;
+    align-items: center;
+}
+
+.sobre-mim .informacoes-sobre-mim p {
+    font-size: 1.8rem;
+    font-weight: 300;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media(max-width: 1280px) { 
+    .sobre-mim .row{
+        justify-content: center;
+    }
+
+    .sobre-mim .informacoes-sobre-mim {  
+        padding: 0 var(--mobile-padding);
+        text-align: center;
+    }
+}
+
+@media(max-width:768px){
+    .sobre-mim .informacoes-sobre-mim {  
+        max-width: 100%;                   
+    }
+}
