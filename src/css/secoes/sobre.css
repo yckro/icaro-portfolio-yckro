@@ -12,6 +12,11 @@
     align-items: center;
 }
 
+.botoes{
+    display: flex;
+    justify-content: center;
+}
+
 .sobre-mim .informacoes-sobre-mim p {
     font-size: 1.8rem;
     font-weight: 300;

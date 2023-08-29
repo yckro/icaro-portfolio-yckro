@@ -65,9 +65,7 @@ body {
 }
 
 .botao {
-    display: flex;
     text-align: center;
-    justify-content: center;
     font-size: var(--fonte-grande);
     padding: 10px 20px;
     border-radius: 20px;
