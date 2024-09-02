@@ -1,6 +1,4 @@
-# Green Love
-
-Horta online da fazenda para sua mesa
+# My portfolio
 
 [<img src="./src/images/perfil.png" alt="horta">]
 
@@ -8,7 +6,7 @@ Horta online da fazenda para sua mesa
 
 [<img src="./src/images/responsivo.png" alt="horta">]
 
-## 🛠️ Construído com
+## 🛠️ Built with
 
 HTML/CSS
 
